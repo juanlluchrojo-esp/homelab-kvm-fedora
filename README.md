@@ -1,9 +1,7 @@
 ![Fedora](https://img.shields.io/badge/Fedora-44-blue)
 ![KVM](https://img.shields.io/badge/Virtualization-KVM-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
-<h1 align="center">
 # Homelab - Virtualized Infrastructure Lab
-</h1>
 ## Overview
 
 This project consists of a personal Homelab environment built using Linux virtualization technologies with the objective of learning, testing and documenting real-world IT infrastructure scenarios.
