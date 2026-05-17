@@ -86,6 +86,10 @@ virbr0 (NAT)
    |
    |--- Kali Linux VM
 ```
+
+## Network Diagram
+
+![Network Diagram](diagrams/networkdiagram.png)
 ---
 
 # Virtualization Stack
