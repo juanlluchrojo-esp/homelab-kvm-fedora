@@ -141,6 +141,27 @@ homelab/
 ![Virsh net-list](screenshots/Virshnet-list.png)
 
 ---
+
+# Installation
+
+## Install Virtualization Packages
+
+```bash
+sudo dnf install @virtualization
+```
+
+## Download Official ISOs
+
+```Kali Linux
+https://www.kali.org/get-kali/#kali-virtual-machines
+```
+```Windows 11 Pro
+https://www.microsoft.com/es-es/software-download/windows11
+```
+```Windows Server 2025 Evaluation Copy
+https://www.microsoft.com/es-es/evalcenter/evaluate-windows-server-2025
+```
+---
 # Security & Snapshots
 
 This environment uses BTRFS snapshots for rollback and recovery purposes.
@@ -202,6 +223,17 @@ The project focuses on:
  - Experimentation
  - Infrastructure design
  - Continuous improvement
+
+---
+
+# What I learned
+
+ - Linux virtualization with KVM/QEMU
+ - Virtual networking with libvirt
+ - Git and GitHub workflow
+ - Infrastructure documentation
+ - Snapshot management with BTRFS
+ - Virtual machine administration
 
 ---
 
