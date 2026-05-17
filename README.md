@@ -132,10 +132,10 @@ homelab/
 
 # Screenshots
 
-![Virt-Manager](screenshots/Virt-Manager Running.png)
+![Virt-Manager](screenshots/Virt-ManagerRunning.png)
 ![BTOP](screenshots/BTOP.png)
-![Running VMs](screenshots/Running VMs.png)
-![Virsh net-list](screenshots/Virsh net-list.png)
+![Running VMs](screenshots/RunningVMs.png)
+![Virsh net-list](screenshots/Virshnet-list.png)
 
 ---
 # Security & Snapshots
