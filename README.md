@@ -1,3 +1,6 @@
+![Fedora](https://img.shields.io/badge/Fedora-44-blue)
+![KVM](https://img.shields.io/badge/Virtualization-KVM-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 # Homelab - Virtualized Infrastructure Lab
 ## Overview
 
