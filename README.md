@@ -56,6 +56,7 @@ The lab is designed to simulate enterprise environments focused on:
 
 # Network Architecture
 
+```
 Internet
    |
    |
@@ -79,7 +80,7 @@ virbr0 (NAT)
    |--- Windows 11 Pro VM
    |
    |--- Kali Linux VM
-
+```
 ---
 
 # Virtualization Stack
@@ -112,6 +113,7 @@ The environment is configured using NAT networking throug virbr0, allowing:
 ---
 
 # Project Structure
+```
 homelab/
 |
 |--- README.md
@@ -125,7 +127,7 @@ homelab/
 |--- scripts/
 |
 |--- configurations/
-
+```
 ---
 
 # Security & Snapshots
