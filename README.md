@@ -130,6 +130,14 @@ homelab/
 ```
 ---
 
+# Screenshots
+
+![Virt-Manager](screenshots/Virt-Manager Running.png)
+![BTOP](screenshots/BTOP.png)
+![Running VMs](screenshots/Running VMs.png)
+![Virsh net-list](screenshots/Virsh net-list.png)
+
+---
 # Security & Snapshots
 
 This environment uses BTRFS snapshots for rollback and recovery purposes.
