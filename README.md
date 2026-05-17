@@ -137,6 +137,10 @@ homelab/
 |
 |--- configurations/
 ```
+
+## Project Structure Diagram
+![Project Structure Diagram](diagrams/projectstructurediagram.png)
+
 ---
 
 # Screenshots
